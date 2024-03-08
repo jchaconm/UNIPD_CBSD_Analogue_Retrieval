@@ -10,4 +10,4 @@ This repository contains the final project developed for the course "Cognitive, 
 
 
 ## Presentation
-- [Google Docs - Project Presentation](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jchaconm/UNIPD_CBSD_Analogue_Retrieval/main/CSBD_Presentation.pdf)
+- [Google Docs - Project Presentation](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jchaconm/UNIPD_CBSD_Analogue_Retrieval/main/CBSD_Presentation.pdf)
